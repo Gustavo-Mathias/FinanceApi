@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "CashFlow.Api.Controllers.ValuesController",
+    "Method": "Register",
+    "RelativePath": "api/Values",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CashFlow.Communication.Requests.RequestRegisterExpenseJson",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
