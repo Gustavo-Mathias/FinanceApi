@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Gustavo\\FinanceApi\\CashFlow\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4B765144-F361-4F2A-9445-E6BC51A787F9}|src\\CashFlow\\CashFlow.Api.csproj|c:\\gustavo\\financeapi\\cashflow\\src\\cashflow\\controllers\\expensescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B765144-F361-4F2A-9445-E6BC51A787F9}|src\\CashFlow\\CashFlow.Api.csproj|solutionrelative:src\\cashflow\\controllers\\expensescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{446BB9BD-15FB-4894-BC08-B9923ACA756B}|src\\CashFlow.Aplication\\CashFlow.Aplication.csproj|c:\\gustavo\\financeapi\\cashflow\\src\\cashflow.aplication\\usecases\\expenses\\register\\registerexpenseusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{446BB9BD-15FB-4894-BC08-B9923ACA756B}|src\\CashFlow.Aplication\\CashFlow.Aplication.csproj|solutionrelative:src\\cashflow.aplication\\usecases\\expenses\\register\\registerexpenseusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC975469-026A-4D12-B215-D57FE02D5DFE}|src\\CashFlow.Communication\\CashFlow.Communication.csproj|c:\\gustavo\\financeapi\\cashflow\\src\\cashflow.communication\\requests\\requestregisterexpensejson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC975469-026A-4D12-B215-D57FE02D5DFE}|src\\CashFlow.Communication\\CashFlow.Communication.csproj|solutionrelative:src\\cashflow.communication\\requests\\requestregisterexpensejson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{446BB9BD-15FB-4894-BC08-B9923ACA756B}|src\\CashFlow.Aplication\\CashFlow.Aplication.csproj|c:\\gustavo\\financeapi\\cashflow\\src\\cashflow.aplication\\usecases\\expenses\\register\\registerexpensevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{446BB9BD-15FB-4894-BC08-B9923ACA756B}|src\\CashFlow.Aplication\\CashFlow.Aplication.csproj|solutionrelative:src\\cashflow.aplication\\usecases\\expenses\\register\\registerexpensevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,27 +31,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "RequestRegisterExpenseJson.cs",
-              "DocumentMoniker": "C:\\Gustavo\\FinanceApi\\CashFlow\\src\\CashFlow.Communication\\Requests\\RequestRegisterExpenseJson.cs",
-              "RelativeDocumentMoniker": "src\\CashFlow.Communication\\Requests\\RequestRegisterExpenseJson.cs",
-              "ToolTip": "C:\\Gustavo\\FinanceApi\\CashFlow\\src\\CashFlow.Communication\\Requests\\RequestRegisterExpenseJson.cs",
-              "RelativeToolTip": "src\\CashFlow.Communication\\Requests\\RequestRegisterExpenseJson.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Title": "RegisterExpenseValidator.cs",
+              "DocumentMoniker": "C:\\Gustavo\\FinanceApi\\CashFlow\\src\\CashFlow.Aplication\\UseCases\\Expenses\\Register\\RegisterExpenseValidator.cs",
+              "RelativeDocumentMoniker": "src\\CashFlow.Aplication\\UseCases\\Expenses\\Register\\RegisterExpenseValidator.cs",
+              "ToolTip": "C:\\Gustavo\\FinanceApi\\CashFlow\\src\\CashFlow.Aplication\\UseCases\\Expenses\\Register\\RegisterExpenseValidator.cs",
+              "RelativeToolTip": "src\\CashFlow.Aplication\\UseCases\\Expenses\\Register\\RegisterExpenseValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T15:57:29.459Z",
+              "WhenOpened": "2024-10-24T14:36:14.837Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ExpensesController.cs",
-              "DocumentMoniker": "C:\\Gustavo\\FinanceApi\\CashFlow\\src\\CashFlow\\Controllers\\ExpensesController.cs",
-              "RelativeDocumentMoniker": "src\\CashFlow\\Controllers\\ExpensesController.cs",
-              "ToolTip": "C:\\Gustavo\\FinanceApi\\CashFlow\\src\\CashFlow\\Controllers\\ExpensesController.cs",
-              "RelativeToolTip": "src\\CashFlow\\Controllers\\ExpensesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABQAAAAAAAAAA==",
+              "Title": "RegisterExpenseUseCase.cs",
+              "DocumentMoniker": "C:\\Gustavo\\FinanceApi\\CashFlow\\src\\CashFlow.Aplication\\UseCases\\Expenses\\Register\\RegisterExpenseUseCase.cs",
+              "RelativeDocumentMoniker": "src\\CashFlow.Aplication\\UseCases\\Expenses\\Register\\RegisterExpenseUseCase.cs",
+              "ToolTip": "C:\\Gustavo\\FinanceApi\\CashFlow\\src\\CashFlow.Aplication\\UseCases\\Expenses\\Register\\RegisterExpenseUseCase.cs",
+              "RelativeToolTip": "src\\CashFlow.Aplication\\UseCases\\Expenses\\Register\\RegisterExpenseUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T15:41:29.205Z",
+              "WhenOpened": "2024-10-24T12:24:54.499Z",
               "EditorCaption": ""
             }
           ]

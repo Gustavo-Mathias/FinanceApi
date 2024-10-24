@@ -17,3 +17,4 @@ C:\Gustavo\FinanceApi\CashFlow\src\CashFlow.Aplication\obj\Debug\net8.0\CashFlow
 C:\Gustavo\FinanceApi\CashFlow\src\CashFlow.Aplication\obj\Debug\net8.0\refint\CashFlow.Aplication.dll
 C:\Gustavo\FinanceApi\CashFlow\src\CashFlow.Aplication\obj\Debug\net8.0\CashFlow.Aplication.pdb
 C:\Gustavo\FinanceApi\CashFlow\src\CashFlow.Aplication\obj\Debug\net8.0\ref\CashFlow.Aplication.dll
+C:\Gustavo\FinanceApi\CashFlow\src\CashFlow.Aplication\obj\Debug\net8.0\CashFlow.Aplication.sourcelink.json
