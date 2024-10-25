@@ -42,3 +42,6 @@ C:\Gustavo\FinanceApi\CashFlow\src\CashFlow\obj\Debug\net8.0\CashFlow.Api.genrun
 C:\Gustavo\FinanceApi\CashFlow\src\CashFlow\obj\Debug\net8.0\ref\CashFlow.Api.dll
 C:\Gustavo\FinanceApi\CashFlow\src\CashFlow\obj\Debug\net8.0\CashFlow.Api.sourcelink.json
 C:\Gustavo\FinanceApi\CashFlow\src\CashFlow\bin\Debug\net8.0\FluentValidation.dll
+C:\Gustavo\FinanceApi\CashFlow\src\CashFlow\bin\Debug\net8.0\fr\CashFlow.Exception.resources.dll
+C:\Gustavo\FinanceApi\CashFlow\src\CashFlow\bin\Debug\net8.0\pt-BR\CashFlow.Exception.resources.dll
+C:\Gustavo\FinanceApi\CashFlow\src\CashFlow\bin\Debug\net8.0\pt-PT\CashFlow.Exception.resources.dll

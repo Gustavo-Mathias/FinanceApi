@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Gustavo\\FinanceApi\\CashFlow\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{446BB9BD-15FB-4894-BC08-B9923ACA756B}|src\\CashFlow.Aplication\\CashFlow.Aplication.csproj|c:\\gustavo\\financeapi\\cashflow\\src\\cashflow.aplication\\usecases\\expenses\\register\\registerexpenseusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{446BB9BD-15FB-4894-BC08-B9923ACA756B}|src\\CashFlow.Aplication\\CashFlow.Aplication.csproj|solutionrelative:src\\cashflow.aplication\\usecases\\expenses\\register\\registerexpenseusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{446BB9BD-15FB-4894-BC08-B9923ACA756B}|src\\CashFlow.Aplication\\CashFlow.Aplication.csproj|c:\\gustavo\\financeapi\\cashflow\\src\\cashflow.aplication\\usecases\\expenses\\register\\registerexpensevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{446BB9BD-15FB-4894-BC08-B9923ACA756B}|src\\CashFlow.Aplication\\CashFlow.Aplication.csproj|solutionrelative:src\\cashflow.aplication\\usecases\\expenses\\register\\registerexpensevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B50007D8-E79C-465B-949C-CA068E94539F}|tests\\Validators.Tests\\Validators.Tests.csproj|c:\\gustavo\\financeapi\\cashflow\\tests\\validators.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50007D8-E79C-465B-949C-CA068E94539F}|tests\\Validators.Tests\\Validators.Tests.csproj|solutionrelative:tests\\validators.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,28 +26,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RegisterExpenseValidator.cs",
-              "DocumentMoniker": "C:\\Gustavo\\FinanceApi\\CashFlow\\src\\CashFlow.Aplication\\UseCases\\Expenses\\Register\\RegisterExpenseValidator.cs",
-              "RelativeDocumentMoniker": "src\\CashFlow.Aplication\\UseCases\\Expenses\\Register\\RegisterExpenseValidator.cs",
-              "ToolTip": "C:\\Gustavo\\FinanceApi\\CashFlow\\src\\CashFlow.Aplication\\UseCases\\Expenses\\Register\\RegisterExpenseValidator.cs",
-              "RelativeToolTip": "src\\CashFlow.Aplication\\UseCases\\Expenses\\Register\\RegisterExpenseValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T14:36:14.837Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "RegisterExpenseUseCase.cs",
-              "DocumentMoniker": "C:\\Gustavo\\FinanceApi\\CashFlow\\src\\CashFlow.Aplication\\UseCases\\Expenses\\Register\\RegisterExpenseUseCase.cs",
-              "RelativeDocumentMoniker": "src\\CashFlow.Aplication\\UseCases\\Expenses\\Register\\RegisterExpenseUseCase.cs",
-              "ToolTip": "C:\\Gustavo\\FinanceApi\\CashFlow\\src\\CashFlow.Aplication\\UseCases\\Expenses\\Register\\RegisterExpenseUseCase.cs",
-              "RelativeToolTip": "src\\CashFlow.Aplication\\UseCases\\Expenses\\Register\\RegisterExpenseUseCase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Gustavo\\FinanceApi\\CashFlow\\tests\\Validators.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "tests\\Validators.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Gustavo\\FinanceApi\\CashFlow\\tests\\Validators.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "tests\\Validators.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T12:24:54.499Z",
+              "WhenOpened": "2024-10-25T17:33:10.854Z",
               "EditorCaption": ""
             }
           ]

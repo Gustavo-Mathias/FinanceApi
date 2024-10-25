@@ -18,3 +18,6 @@ C:\Gustavo\FinanceApi\CashFlow\src\CashFlow.Aplication\obj\Debug\net8.0\refint\C
 C:\Gustavo\FinanceApi\CashFlow\src\CashFlow.Aplication\obj\Debug\net8.0\CashFlow.Aplication.pdb
 C:\Gustavo\FinanceApi\CashFlow\src\CashFlow.Aplication\obj\Debug\net8.0\ref\CashFlow.Aplication.dll
 C:\Gustavo\FinanceApi\CashFlow\src\CashFlow.Aplication\obj\Debug\net8.0\CashFlow.Aplication.sourcelink.json
+C:\Gustavo\FinanceApi\CashFlow\src\CashFlow.Aplication\bin\Debug\net8.0\fr\CashFlow.Exception.resources.dll
+C:\Gustavo\FinanceApi\CashFlow\src\CashFlow.Aplication\bin\Debug\net8.0\pt-BR\CashFlow.Exception.resources.dll
+C:\Gustavo\FinanceApi\CashFlow\src\CashFlow.Aplication\bin\Debug\net8.0\pt-PT\CashFlow.Exception.resources.dll
