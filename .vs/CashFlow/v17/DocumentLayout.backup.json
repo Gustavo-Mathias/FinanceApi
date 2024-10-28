@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Gustavo\\FinanceApi\\CashFlow\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B50007D8-E79C-465B-949C-CA068E94539F}|tests\\Validators.Tests\\Validators.Tests.csproj|c:\\gustavo\\financeapi\\cashflow\\tests\\validators.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B50007D8-E79C-465B-949C-CA068E94539F}|tests\\Validators.Tests\\Validators.Tests.csproj|solutionrelative:tests\\validators.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B50007D8-E79C-465B-949C-CA068E94539F}|tests\\Validators.Tests\\Validators.Tests.csproj|c:\\gustavo\\financeapi\\cashflow\\tests\\validators.tests\\expenses\\register\\registerexpensevalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50007D8-E79C-465B-949C-CA068E94539F}|tests\\Validators.Tests\\Validators.Tests.csproj|solutionrelative:tests\\validators.tests\\expenses\\register\\registerexpensevalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{446BB9BD-15FB-4894-BC08-B9923ACA756B}|src\\CashFlow.Aplication\\CashFlow.Aplication.csproj|c:\\gustavo\\financeapi\\cashflow\\src\\cashflow.aplication\\usecases\\expenses\\register\\registerexpensevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{446BB9BD-15FB-4894-BC08-B9923ACA756B}|src\\CashFlow.Aplication\\CashFlow.Aplication.csproj|solutionrelative:src\\cashflow.aplication\\usecases\\expenses\\register\\registerexpensevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterExpenseValidator.cs",
+              "DocumentMoniker": "C:\\Gustavo\\FinanceApi\\CashFlow\\src\\CashFlow.Aplication\\UseCases\\Expenses\\Register\\RegisterExpenseValidator.cs",
+              "RelativeDocumentMoniker": "src\\CashFlow.Aplication\\UseCases\\Expenses\\Register\\RegisterExpenseValidator.cs",
+              "ToolTip": "C:\\Gustavo\\FinanceApi\\CashFlow\\src\\CashFlow.Aplication\\UseCases\\Expenses\\Register\\RegisterExpenseValidator.cs",
+              "RelativeToolTip": "src\\CashFlow.Aplication\\UseCases\\Expenses\\Register\\RegisterExpenseValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T13:13:08.439Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -27,14 +44,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Gustavo\\FinanceApi\\CashFlow\\tests\\Validators.Tests\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "tests\\Validators.Tests\\UnitTest1.cs",
-              "ToolTip": "C:\\Gustavo\\FinanceApi\\CashFlow\\tests\\Validators.Tests\\UnitTest1.cs",
-              "RelativeToolTip": "tests\\Validators.Tests\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Title": "RegisterExpenseValidatorTests.cs",
+              "DocumentMoniker": "C:\\Gustavo\\FinanceApi\\CashFlow\\tests\\Validators.Tests\\Expenses\\Register\\RegisterExpenseValidatorTests.cs",
+              "RelativeDocumentMoniker": "tests\\Validators.Tests\\Expenses\\Register\\RegisterExpenseValidatorTests.cs",
+              "ToolTip": "C:\\Gustavo\\FinanceApi\\CashFlow\\tests\\Validators.Tests\\Expenses\\Register\\RegisterExpenseValidatorTests.cs",
+              "RelativeToolTip": "tests\\Validators.Tests\\Expenses\\Register\\RegisterExpenseValidatorTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T17:33:10.854Z",
+              "WhenOpened": "2024-10-25T17:37:32.292Z",
               "EditorCaption": ""
             }
           ]
