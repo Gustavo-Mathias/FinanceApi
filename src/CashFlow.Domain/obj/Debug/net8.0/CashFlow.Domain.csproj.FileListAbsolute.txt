@@ -9,3 +9,4 @@ C:\Gustavo\FinanceApi\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Dom
 C:\Gustavo\FinanceApi\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\refint\CashFlow.Domain.dll
 C:\Gustavo\FinanceApi\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.pdb
 C:\Gustavo\FinanceApi\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\ref\CashFlow.Domain.dll
+C:\Gustavo\FinanceApi\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.sourcelink.json
