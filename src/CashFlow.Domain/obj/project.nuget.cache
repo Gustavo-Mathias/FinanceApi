@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WZiM1T5dUBw=",
+  "dgSpecHash": "7ZIGPIbg7JY=",
   "success": true,
-  "projectFilePath": "C:\\Gustavo\\FinanceApi\\CashFlow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Gustavo\\Workspace\\FinanceApi\\src\\CashFlow.Domain\\CashFlow.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

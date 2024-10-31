@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "40tFf7YOjSA=",
+  "dgSpecHash": "WbhkJJxIXbM=",
   "success": true,
-  "projectFilePath": "C:\\Gustavo\\FinanceApi\\CashFlow\\tests\\CommonTestUtilities\\CommonTestUtilities.csproj",
+  "projectFilePath": "C:\\Users\\Gustavo\\Workspace\\FinanceApi\\tests\\CommonTestUtilities\\CommonTestUtilities.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Timeware 050\\.nuget\\packages\\bogus\\35.6.1\\bogus.35.6.1.nupkg.sha512"
+    "C:\\Users\\Gustavo\\.nuget\\packages\\bogus\\35.6.1\\bogus.35.6.1.nupkg.sha512"
   ],
   "logs": []
 }

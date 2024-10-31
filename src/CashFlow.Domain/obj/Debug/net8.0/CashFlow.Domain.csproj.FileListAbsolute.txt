@@ -10,3 +10,15 @@ C:\Gustavo\FinanceApi\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\refint\CashF
 C:\Gustavo\FinanceApi\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.pdb
 C:\Gustavo\FinanceApi\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\ref\CashFlow.Domain.dll
 C:\Gustavo\FinanceApi\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.sourcelink.json
+C:\Users\Gustavo\Workspace\FinanceApi\src\CashFlow.Domain\bin\Debug\net8.0\CashFlow.Domain.deps.json
+C:\Users\Gustavo\Workspace\FinanceApi\src\CashFlow.Domain\bin\Debug\net8.0\CashFlow.Domain.dll
+C:\Users\Gustavo\Workspace\FinanceApi\src\CashFlow.Domain\bin\Debug\net8.0\CashFlow.Domain.pdb
+C:\Users\Gustavo\Workspace\FinanceApi\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Workspace\FinanceApi\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Workspace\FinanceApi\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.AssemblyInfo.cs
+C:\Users\Gustavo\Workspace\FinanceApi\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Workspace\FinanceApi\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.sourcelink.json
+C:\Users\Gustavo\Workspace\FinanceApi\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.dll
+C:\Users\Gustavo\Workspace\FinanceApi\src\CashFlow.Domain\obj\Debug\net8.0\refint\CashFlow.Domain.dll
+C:\Users\Gustavo\Workspace\FinanceApi\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.pdb
+C:\Users\Gustavo\Workspace\FinanceApi\src\CashFlow.Domain\obj\Debug\net8.0\ref\CashFlow.Domain.dll

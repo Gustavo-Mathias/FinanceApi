@@ -11,7 +11,7 @@ public class RegisterExpenseUseCase
     {
         Validate(request);
 
-        var dbContext = new CashFlowDbContext();
+         var dbContext = new CashFlowDbContext();
 
         var entity = new Expense
         {
@@ -19,7 +19,7 @@ public class RegisterExpenseUseCase
             Date = request.Date,
             Description = request.Description,
             Title = request.Title,
-            PaymentType = (Domain.Enums.PaymentType)request.PaymentType,
+            PaymentType = (decimal)(CashFlow.Domain.Entities.Enums.PaymentType)request.PaymentType,
         };
         
         dbContext.Expenses.Add(entity);

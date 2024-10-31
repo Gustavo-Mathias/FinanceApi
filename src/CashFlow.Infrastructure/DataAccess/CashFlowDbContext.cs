@@ -10,7 +10,7 @@ public class CashFlowDbContext : DbContext
     {
         var connectionString = "Server =localhost;Databe=cashflowdb;Uid=root;Pwd=Gu13*0419;";
 
-        var version = new Version(8, 0, 38);
+        var version = new Version(8, 0, 40);
         var serverVersion = new MySqlServerVersion(version);
 
         optionsBuilder.UseMySql(connectionString, serverVersion);
