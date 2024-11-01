@@ -38,11 +38,9 @@ C:\Users\Gustavo\Workspace\FinanceApi\src\CashFlow.Aplication\bin\Debug\net8.0\C
 C:\Users\Gustavo\Workspace\FinanceApi\src\CashFlow.Aplication\bin\Debug\net8.0\CashFlow.Communication.dll
 C:\Users\Gustavo\Workspace\FinanceApi\src\CashFlow.Aplication\bin\Debug\net8.0\CashFlow.Domain.dll
 C:\Users\Gustavo\Workspace\FinanceApi\src\CashFlow.Aplication\bin\Debug\net8.0\CashFlow.Exception.dll
-C:\Users\Gustavo\Workspace\FinanceApi\src\CashFlow.Aplication\bin\Debug\net8.0\CashFlow.Infrastructure.dll
 C:\Users\Gustavo\Workspace\FinanceApi\src\CashFlow.Aplication\bin\Debug\net8.0\CashFlow.Communication.pdb
 C:\Users\Gustavo\Workspace\FinanceApi\src\CashFlow.Aplication\bin\Debug\net8.0\CashFlow.Domain.pdb
 C:\Users\Gustavo\Workspace\FinanceApi\src\CashFlow.Aplication\bin\Debug\net8.0\CashFlow.Exception.pdb
-C:\Users\Gustavo\Workspace\FinanceApi\src\CashFlow.Aplication\bin\Debug\net8.0\CashFlow.Infrastructure.pdb
 C:\Users\Gustavo\Workspace\FinanceApi\src\CashFlow.Aplication\bin\Debug\net8.0\fr\CashFlow.Exception.resources.dll
 C:\Users\Gustavo\Workspace\FinanceApi\src\CashFlow.Aplication\bin\Debug\net8.0\pt-BR\CashFlow.Exception.resources.dll
 C:\Users\Gustavo\Workspace\FinanceApi\src\CashFlow.Aplication\bin\Debug\net8.0\pt-PT\CashFlow.Exception.resources.dll

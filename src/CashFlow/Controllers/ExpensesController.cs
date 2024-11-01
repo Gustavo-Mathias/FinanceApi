@@ -9,11 +9,11 @@ public class ValuesController : ControllerBase
 {
     [HttpPost]
 
-    public IActionResult Register([FromBody] RequestRegisterExpenseJson request)
+    public IActionResult Register(
+        [FromServices] IRegisterExpenseUseCase useCase,
+        [FromBody] RequestRegisterExpenseJson request)
     {
-        var useCase = new RegisterExpenseUseCase();
-
-        var response = useCase.Execute(request);
+         var response = useCase.Execute(request);
 
         return Created(string.Empty, response);
     }
